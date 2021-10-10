@@ -1,0 +1,25 @@
+{
+  "name": "webscrapper",
+  "version": "1.0.0",
+  "description": "This is simple webscrapper project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsmayank/WebScrapper.git"
+  },
+  "author": "Mayank Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsmayank/WebScrapper/issues"
+  },
+  "homepage": "https://github.com/itsmayank/WebScrapper#readme",
+  "dependencies": {
+    "axios": "^0.22.0",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.1"
+  }
+}
